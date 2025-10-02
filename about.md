@@ -1,2 +1,2 @@
 # About
-Short bio here.
+Hi, Im chrisitian 
