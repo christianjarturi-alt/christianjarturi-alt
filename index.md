@@ -1,5 +1,5 @@
 # Christian
-I analyze software companies and write notes.
+I _______
 
 - [About](/about)
 - [Writing](/posts)
